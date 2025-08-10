@@ -1,4 +1,4 @@
-Softonic – Music Player
+🎵 Softonic – Music Player
 Softonic is a frontend music player web app.
 It allows users to play, pause, skip, and manage their favorite tracks with a clean and responsive interface.
 
