@@ -21,3 +21,11 @@ HTML5 – Structure and layout
 CSS3 – Styling and animations
 
 JavaScript (ES6) – Functionality and interactivity
+
+📦 Installation & Usage
+1. Clone the repository 
+  - git clone https://github.com/amankumar12022003/Softonic
+  - cd softonic 
+2. Open the project
+Just open index.html in your browser — no server setup required.
+
